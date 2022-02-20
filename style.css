@@ -1,0 +1,27 @@
+body{
+    background-color:aquamarine;
+}
+#scoreshower{
+    font-size: 25px;
+    margin-left: -1231px;
+    font-family: Zapfino;
+}
+#timershower{
+    font-size: 25px;
+    float: right;
+    margin: 190px;
+    margin-top: -37px;
+    font-family: Zapfino;
+}
+#sketch_instructor{
+    font-size: 30px;
+    font-family: Brush Script MT;
+}
+#show_sketch:hover{
+    background-color:royalblue;
+    color:navajowhite;
+}
+#main_title_in_the_web_page:hover{
+   color:indigo;
+   background-color:lemonchiffon;
+}
